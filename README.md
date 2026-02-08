@@ -29,3 +29,7 @@ Modern temperature monitoring systems can also include IoT integration, enabling
 
 Overall, a temperature monitoring system is a critical tool for maintaining controlled environments, ensuring safety, and optimizing processes in multiple domains. It provides real-time data, improves decision-making, and protects equipment, materials, and living beings from temperature-related hazards. By using simulation platforms like Tinkercad and programming microcontrollers like Arduino, students and hobbyists can learn the fundamentals of electronics, programming, and system automation while creating practical and functional temperature monitoring solutions.
 
+#OUTPUT
+
+<img width="1564" height="909" alt="Image" src="https://github.com/user-attachments/assets/75cd0ad4-aaa1-4a8c-9dad-d8cc26991a40" />
+
